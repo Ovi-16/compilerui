@@ -1,0 +1,12 @@
+{
+  "compilerOptions": {
+        
+    "target": "es6",
+    "baseUrl": "./",
+    "paths": {
+      "@types/*": ["compiler/types/*"],
+      "@src/*": ["src/*"]
+    }
+  
+  }
+}
